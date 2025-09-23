@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Anger from "./components/Agency";
+import Bookmanu from "./components/bookmanu";
+import Client from "./components/Clients ";
+import Experience from "./components/Experience";
+import Explore from "./components/Explore ";
+import Footer from "./components/footer";
+import Future from "./components/future";
+import Home from "./components/Home";
+import Making from "./components/makeing";
+import Publish from "./components/publicsh";
+import Topclass from "./components/Top-Class ";
+import Yameen from "./components/yameen";
+import Zamin from "./components/Zamin";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Home />
+      <Zamin />
+      <Yameen />
+      <Bookmanu />
+      <Publish />
+      <Experience />
+      <Future />
+      <Explore />
+      <Topclass />
+      <Making />
+      <Client />
+      <Anger />
+      <Footer />
+    </>
   );
 }
 

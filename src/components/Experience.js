@@ -23,7 +23,7 @@ function Experience() {
                 <path d="M176 80c-52.94 0-96 43.06-96 96 0 8.84 7.16 16 16 16s16-7.16 16-16c0-35.3 28.72-64 64-64 8.84 0 16-7.16 16-16s-7.16-16-16-16zM96.06 459.17c0 3.15.93 6.22 2.68 8.84l24.51 36.84c2.97 4.46 7.97 7.14 13.32 7.14h78.85c5.36 0 10.36-2.68 13.32-7.14l24.51-36.84c1.74-2.62 2.67-5.7 2.68-8.84l.05-43.18H96.02l.04 43.18zM176 0C73.72 0 0 82.97 0 176c0 44.37 16.45 84.85 43.56 115.78 16.64 18.99 42.74 58.8 52.42 92.16v.06h48v-.12c-.01-4.77-.72-9.51-2.15-14.07-5.59-17.81-22.82-64.77-62.17-109.67-20.54-23.43-31.52-53.15-31.61-84.14-.2-73.64 59.67-128 127.95-128 70.58 0 128 57.42 128 128 0 30.97-11.24 60.85-31.65 84.14-39.11 44.61-56.42 91.47-62.1 109.46a47.507 47.507 0 0 0-2.22 14.3v.1h48v-.05c9.68-33.37 35.78-73.18 52.42-92.16C335.55 260.85 352 220.37 352 176 352 78.8 273.2 0 176 0z"></path>
               </svg>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">Years Of Experience</h3>
                 We're a team of seasoned publishers dedicated to delivering
@@ -48,7 +48,7 @@ function Experience() {
                 <path d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm95.8 32.6L272 480l-32-136 32-56h-96l32 56-32 136-47.8-191.4C56.9 292 0 350.3 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-72.1-56.9-130.4-128.2-133.8z"></path>
               </svg>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">Industry Experts at Your Service</h3>
                 As a top-selling publisher, we're committed to finding solutions
@@ -75,7 +75,7 @@ function Experience() {
                 </svg>
               </div>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">
                   A Single Place for Multiple Tasks
@@ -104,7 +104,7 @@ function Experience() {
                 </svg>
               </div>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">Your Success is Our Goal</h3>
                 We're dedicated to making our clients happy. Your satisfaction
@@ -130,7 +130,7 @@ function Experience() {
                 </svg>
               </div>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">
                   Affordable Packages for Every Budget
@@ -159,7 +159,7 @@ function Experience() {
                 </svg>
               </div>
             </div>
-            <div className="card">
+            <div className="card1">
               <p className="card-text">
                 <h3 className="card-title">
                   Passionate and Creative, Day and Night

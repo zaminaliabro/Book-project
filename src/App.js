@@ -10,7 +10,7 @@ import Home from "./components/Home";
 import Making from "./components/makeing";
 import Publish from "./components/publicsh";
 import Topclass from "./components/Top-Class ";
-import Yameen from "./components/yameen";
+
 import Zamin from "./components/Zamin";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
     <>
       <Home />
       <Zamin />
-      <Yameen />
+
       <Bookmanu />
       <Publish />
       <Experience />

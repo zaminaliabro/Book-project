@@ -24,7 +24,6 @@ function Footer() {
             </p>
           </div>
 
-          {/* Social Icons */}
           <div className="ic">
             <div className="flex space-x-3">
               <a

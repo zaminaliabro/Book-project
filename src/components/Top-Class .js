@@ -1,7 +1,6 @@
 function Topclass() {
   return (
     <section className="topclass">
-      {/* Left Side Content */}
       <div className="topclass-content">
         <h2>A Top-Class Agency For Books</h2>
         <h1>When It Comes To Publishing, We Are Unmatched</h1>

@@ -24,8 +24,8 @@ function Experience() {
               </svg>
             </div>
             <div className="card">
-              <h3 className="card-title">Years Of Experience</h3>
               <p className="card-text">
+                <h3 className="card-title">Years Of Experience</h3>
                 We're a team of seasoned publishers dedicated to delivering
                 top-class quality every single time. Your book deserves nothing
                 less.
@@ -49,8 +49,8 @@ function Experience() {
               </svg>
             </div>
             <div className="card">
-              <h3 className="card-title">Industry Experts at Your Service</h3>
               <p className="card-text">
+                <h3 className="card-title">Industry Experts at Your Service</h3>
                 As a top-selling publisher, we're committed to finding solutions
                 that are both innovative and effective. Your book will be in
                 good hands.
@@ -76,8 +76,10 @@ function Experience() {
               </div>
             </div>
             <div className="card">
-              <h3 className="card-title">A Single Place for Multiple Tasks</h3>
               <p className="card-text">
+                <h3 className="card-title">
+                  A Single Place for Multiple Tasks
+                </h3>
                 We support you at every stage, from the first idea to the final
                 book in readers' hands. Our services include design, marketing,
                 distribution, writing, and editing.
@@ -103,8 +105,8 @@ function Experience() {
               </div>
             </div>
             <div className="card">
-              <h3 className="card-title">Your Success is Our Goal</h3>
               <p className="card-text">
+                <h3 className="card-title">Your Success is Our Goal</h3>
                 We're dedicated to making our clients happy. Your satisfaction
                 is our top priority.
               </p>
@@ -129,10 +131,10 @@ function Experience() {
               </div>
             </div>
             <div className="card">
-              <h3 className="card-title">
-                Affordable Packages for Every Budget
-              </h3>
               <p className="card-text">
+                <h3 className="card-title">
+                  Affordable Packages for Every Budget
+                </h3>
                 Everyone deserves to see their dreams come true. We offer
                 budget-friendly publishing options so you can share your story
                 with the world.
@@ -158,10 +160,10 @@ function Experience() {
               </div>
             </div>
             <div className="card">
-              <h3 className="card-title">
-                Passionate and Creative, Day and Night
-              </h3>
               <p className="card-text">
+                <h3 className="card-title">
+                  Passionate and Creative, Day and Night
+                </h3>
                 Fueled by passion and creativity, we're always ready to go the
                 extra mile. Your book deserves our full dedication.
               </p>

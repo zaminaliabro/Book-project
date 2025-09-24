@@ -2,7 +2,6 @@ function Footer() {
   return (
     <>
       <footer className="footer-root">
-        {/* Left Section: Logo + Paragraphs */}
         <div className="footer-left">
           <img
             className="ft"
@@ -79,7 +78,6 @@ function Footer() {
           </div>
         </div>
 
-        {/* Right Section: Links */}
         <div className="footer-right">
           <div>
             <h4 className="text-base sfpro font-medium text-gray-900 mb-4">

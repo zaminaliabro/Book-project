@@ -1,0 +1,17 @@
+.making {
+  text-align: center;
+  padding: 100px 20px;
+  background: #f3f4f6;
+}
+
+.making h2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #111;
+}
+
+.making p {
+  font-size: 18px;
+  margin-top: 15px;
+  color: #555;
+}

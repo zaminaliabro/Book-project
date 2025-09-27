@@ -1,0 +1,28 @@
+.work {
+  padding: 60px 20px;
+  background: #f9fafb;
+}
+
+.work h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #111;
+}
+
+.work h1 {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 25px;
+  color: orangered;
+}
+
+.work p {
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+  max-width: 750px;
+  margin: 0 auto;
+}

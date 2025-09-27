@@ -98,7 +98,7 @@ function Footer() {
                 </a>
               </li>
               <li>
-                <a className="hr" href="/about">
+                <a className="hr" href="a">
                   About
                 </a>
               </li>

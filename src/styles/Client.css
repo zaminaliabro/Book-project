@@ -1,0 +1,25 @@
+.client {
+  text-align: center;
+  padding: 80px 20px;
+  background: #fff;
+}
+
+.client h2 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #ff7a00;
+}
+
+.client h1 {
+  font-size: 38px;
+  font-weight: 700;
+  margin: 15px 0;
+  color: #111;
+}
+
+.client p {
+  font-size: 18px;
+  color: #444;
+  max-width: 700px;
+  margin: 0 auto;
+}

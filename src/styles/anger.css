@@ -1,0 +1,79 @@
+.Anger-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 60px;
+  background: #f9fafb;
+  gap: 40px;
+}
+
+.Anger-text {
+  flex: 1;
+}
+
+.Anger-text h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: orangered;
+}
+
+.Anger-text h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #111;
+}
+
+.Anger-text h2 span {
+  color: orangered;
+}
+
+.pr1 {
+  font-size: 18px;
+  line-height: 1.7;
+  margin-top: 20px;
+  color: #444;
+}
+
+.form-box {
+  flex: 1;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form-box h3 {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.form-box form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.form-box input,
+.form-box textarea {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+}
+
+.form-box button {
+  background: orangered;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.form-box button:hover {
+  background: #d94a00;
+}
